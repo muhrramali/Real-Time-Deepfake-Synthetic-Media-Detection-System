@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+_upload.*
+st_*.txt
+lt_*.txt
+dl_*.txt
+*_pid.txt
+df_dl.exe
+.cloudflared.exe
+so*.txt
+.DS_Store
