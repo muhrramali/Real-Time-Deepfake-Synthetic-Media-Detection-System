@@ -8,5 +8,6 @@ dl_*.txt
 *_pid.txt
 df_dl.exe
 .cloudflared.exe
+df_web_task.bat
 so*.txt
 .DS_Store
